@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022 <br>📚 I'm currently learning Web Development and Data Science<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Criando Bugs since 2022 <br>📚 Atualmente estou estudando Desenvolvimento de Sistemas e Ciência de Dados<br>🎯 Objetivos: Me tornar um desenvolvedor capacitado e qualificado<br>🎲 Fato curioso: Fiz um intercâmbio de 6 meses para a Nova Zelândia</p>
 
 ###
 
